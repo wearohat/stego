@@ -1,4 +1,4 @@
-#  Stego — Image-Based Text Steganography Too
+#  Stego — Image-Based Text Steganography Tool
 
 Stego is a simple command-line steganography tool that lets you **hide** and **extract** secret text messages inside PNG images using the least significant bit (LSB) technique.
 
